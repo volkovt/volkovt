@@ -1,4 +1,4 @@
-## Olá, Seja bem vindo! Sou Diego.
+## Olá, Seja bem vindo! Sou Diego Melo
 
 - 🔭 Trabalho como fullstack Vue.JS/Java
 - 🌱 Estudando React e AWS
